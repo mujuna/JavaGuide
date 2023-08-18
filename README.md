@@ -3,7 +3,7 @@ Java full stack knowledge system notes
 
 # 🔥Spring
 
-### Spring Framework
+### Spring Frameworka
 
 ### SpringBoot
 
